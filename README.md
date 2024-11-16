@@ -98,6 +98,19 @@
 
 ---
 
+
+<div style="font-family: 'Poppins', sans-serif; line-height: 1.6;">
+  <h2>💻 About Me</h2>
+  <ul>
+    <li>🔭 I’m currently working on <strong>Full-Stack Web Development</strong></li>
+    <li>🌱 I’m currently learning <strong>DevOps & Advanced Backend Technologies</strong></li>
+    <li>💬 Ask me about <strong>React, Node.js, Express.js, MongoDB, and TailwindCSS</strong></li>
+    <li>📫 How to reach me: <a href="mailto:siyamahmed@example.com">siyamahmed@example.com</a></li>
+    <li>⚡ Fun fact: <strong>I love to explore new technologies and contribute to open-source projects!</strong></li>
+  </ul>
+</div>
+
+
 ### 📂 Featured Projects
 
 <table>
