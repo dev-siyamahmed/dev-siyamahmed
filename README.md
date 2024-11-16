@@ -113,7 +113,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://ibb.co.com/sQkP606" width="100%" alt="Project 1" />
+      <img src="https://i.ibb.co.com/TRpTbVb/screencapture-boibinimoy-netlify-app-2024-11-16-15-22-04.png" width="100%" alt="Project 1" />
       <h4> Book 📙 Exchange Platform </h4>
       <p>Brief description of the project.</p>
       <a href="https://github.com/your-username/project1" target="_blank">GitHub Repo</a> | <a href="https://boibinimoy.netlify.app" target="_blank">Live Demo</a>
