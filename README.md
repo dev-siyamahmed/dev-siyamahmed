@@ -131,20 +131,19 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://i.ibb.co/TRpTbVb/screencapture-boibinimoy-netlify-app-2024-11-16-15-22-04.png" width="100%" alt="Book Exchange Platform" />
-      <h3>📙 Book Exchange Platform</h3>
+      <img src="https://i.ibb.co/YOUR-IMAGE-PATH/project2.png" width="100%" alt="Munshi Wholesale" />
+      <h3>🛒 Munshi Wholesale</h3>
       <p>
-        <strong>About:</strong> A platform for users to exchange and sell books, featuring wishlist and cart functionality, and an integrated payment gateway.
+        <strong>About:</strong> A responsive single bento-style e-commerce platform featuring advanced search and filtering capabilities for electronics products.
       </p>
       <ul align="left">
-        <li>📌 Add or remove books from wishlist and purchase directly.</li>
-        <li>📌 Payment gateway integration with SSLCommerz (Bkash, Nagad, Rocket).</li>
-        <li>📌 Role management for Admin, Moderator, Seller, and Publisher.</li>
-        <li>📌 Category-wise book display and user-specific controls.</li>
+        <li>📌 Admin and user-specific dashboards with role-based features.</li>
+        <li>📌 Integration of Stripe and SSLCommerz for secure payment processing.</li>
+        <li>📌 Admin control to verify users and manage products effectively.</li>
       </ul>
-      <p><strong>Technologies:</strong> Next.js, Tailwind CSS, React.js, Firebase, MongoDB, Mongoose, JWT</p>
-      <a href="https://github.com/your-username/book-exchange-platform" target="_blank">GitHub Repo</a> | 
-      <a href="https://boibinimoy.netlify.app" target="_blank">Live Demo</a>
+      <p><strong>Technologies:</strong> React.js, Tailwind CSS, Firebase, Express.js, Node.js, MongoDB, JWT, Stripe</p>
+      <a href="https://github.com/your-username/munshi-wholesale" target="_blank">GitHub Repo</a> | 
+      <a href="https://munshiwholesale.netlify.app" target="_blank">Live Demo</a>
     </td>
   </tr>
 </table>
