@@ -128,8 +128,24 @@
       <a href="https://github.com/your-username/book-exchange-platform" target="_blank">GitHub Repo</a> | 
       <a href="https://boibinimoy.netlify.app" target="_blank">Live Demo</a>
     </td>
-
-   
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.ibb.co/TRpTbVb/screencapture-boibinimoy-netlify-app-2024-11-16-15-22-04.png" width="100%" alt="Book Exchange Platform" />
+      <h3>📙 Book Exchange Platform</h3>
+      <p>
+        <strong>About:</strong> A platform for users to exchange and sell books, featuring wishlist and cart functionality, and an integrated payment gateway.
+      </p>
+      <ul align="left">
+        <li>📌 Add or remove books from wishlist and purchase directly.</li>
+        <li>📌 Payment gateway integration with SSLCommerz (Bkash, Nagad, Rocket).</li>
+        <li>📌 Role management for Admin, Moderator, Seller, and Publisher.</li>
+        <li>📌 Category-wise book display and user-specific controls.</li>
+      </ul>
+      <p><strong>Technologies:</strong> Next.js, Tailwind CSS, React.js, Firebase, MongoDB, Mongoose, JWT</p>
+      <a href="https://github.com/your-username/book-exchange-platform" target="_blank">GitHub Repo</a> | 
+      <a href="https://boibinimoy.netlify.app" target="_blank">Live Demo</a>
+    </td>
   </tr>
 </table>
 
