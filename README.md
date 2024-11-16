@@ -130,7 +130,7 @@
     </td>
 
     <td align="center">
-      <img src="https://i.ibb.co/YOUR-IMAGE-PATH/project2.png" width="100%" alt="Munshi Wholesale" />
+      <img src="https://i.ibb.co/TRpTbVb/screencapture-boibinimoy-netlify-app-2024-11-16-15-22-04.png" width="100%" alt="Book Exchange Platform" />
       <h3>🛒 Munshi Wholesale</h3>
       <p>
         <strong>About:</strong> A responsive single bento-style e-commerce platform featuring advanced search and filtering capabilities for electronics products.
@@ -140,9 +140,9 @@
         <li>📌 Integration of Stripe and SSLCommerz for secure payment processing.</li>
         <li>📌 Admin control to verify users and manage products effectively.</li>
       </ul>
-      <p><strong>Technologies:</strong> React.js, Tailwind CSS, Firebase, Express.js, Node.js, MongoDB, JWT, Stripe</p>
-      <a href="https://github.com/your-username/munshi-wholesale" target="_blank">GitHub Repo</a> | 
-      <a href="https://munshiwholesale.netlify.app" target="_blank">Live Demo</a>
+      <p><strong>Technologies:</strong> React.js, Tailwind CSS, Firebase, MongoDB, Mongoose, JWT</p>
+      <a href="https://github.com/your-username/book-exchange-platform" target="_blank">GitHub Repo</a> | 
+      <a href="https://boibinimoy.netlify.app" target="_blank">Live Demo</a>
     </td>
   </tr>
 </table>
