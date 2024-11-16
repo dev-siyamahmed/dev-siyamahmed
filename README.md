@@ -88,11 +88,13 @@
 
 ---
 
-### 📊 Highlights
+### 💻 About Me
 
-- 🌟 Over 50+ projects in MERN stack.
-- 💻 Experienced in scalable web app development.
-- 🚀 Skilled in optimizing front-end performance.
+- 🔭 I’m currently working on **Full-Stack Web Development**  
+- 🌱 I’m currently learning **DevOps & Advanced Backend Technologies**  
+- 💬 Ask me about **React, Node.js, Express.js, MongoDB, and TailwindCSS Or Etc**  
+- 📫 How to reach me: **siyamahmed3827@gmail.com**  
+- ⚡ Fun fact: **I love to explore new technologies and contribute to open-source projects!**
 
 ---
 
