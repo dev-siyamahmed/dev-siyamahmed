@@ -113,10 +113,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/your-image-path/project1.png" width="100%" alt="Project 1" />
-      <h4>Project Name 1</h4>
+      <img src="https://ibb.co.com/sQkP606" width="100%" alt="Project 1" />
+      <h4> Book 📙 Exchange Platform </h4>
       <p>Brief description of the project.</p>
-      <a href="https://github.com/your-username/project1" target="_blank">GitHub Repo</a> | <a href="https://your-project1-live-demo.com" target="_blank">Live Demo</a>
+      <a href="https://github.com/your-username/project1" target="_blank">GitHub Repo</a> | <a href="https://boibinimoy.netlify.app" target="_blank">Live Demo</a>
     </td>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/your-image-path/project2.png" width="100%" alt="Project 2" />
