@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-path/banner-image.png" alt="Banner Image" />
+  <img src="https://i.ibb.co.com/GFRwXTV/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Banner Image" />
 </p>
 
 ---
