@@ -119,6 +119,20 @@
       <a href="https://github.com/your-username/project1" target="_blank">GitHub Repo</a> | 
       <a href="https://boibinimoy.netlify.app" target="_blank">Live Demo</a>
     </td>
+     <td align="center">
+      <img src="https://i.ibb.co/TRpTbVb/screencapture-boibinimoy-netlify-app-2024-11-16-15-22-04.png" width="100%" alt="Project 1" />
+      <h4>Book 📙 Exchange Platform</h4>
+      <p>Brief description of the project.</p>
+      <a href="https://github.com/your-username/project1" target="_blank">GitHub Repo</a> | 
+      <a href="https://boibinimoy.netlify.app" target="_blank">Live Demo</a>
+    </td>
+     <td align="center">
+      <img src="https://i.ibb.co/TRpTbVb/screencapture-boibinimoy-netlify-app-2024-11-16-15-22-04.png" width="100%" alt="Project 1" />
+      <h4>Book 📙 Exchange Platform</h4>
+      <p>Brief description of the project.</p>
+      <a href="https://github.com/your-username/project1" target="_blank">GitHub Repo</a> | 
+      <a href="https://boibinimoy.netlify.app" target="_blank">Live Demo</a>
+    </td>
     <td align="center">
       <img src="https://i.ibb.co/YOUR-IMAGE-PATH/project2.png" width="100%" alt="Project 2" />
       <h4>Project Name 2</h4>
