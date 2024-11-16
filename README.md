@@ -1,5 +1,11 @@
 <h2 align="center">Hi 👋! I'm Siyam Ahmed, a MERN Stack Developer from Bangladesh</h2>
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-siyamahmed.dev-siyamahmed&"  />
+</div>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/your-image-path/banner-image.png" alt="Banner Image" />
 </p>
@@ -29,12 +35,6 @@
 
 ---
 
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-siyamahmed.dev-siyamahmed&"  />
-</div>
 
 ###
 
