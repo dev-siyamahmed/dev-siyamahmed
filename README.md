@@ -152,7 +152,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://i.ibb.co/TRpTbVb/screencapture-boibinimoy-netlify-app-2024-11-16-15-22-04.png" width="100%" alt="Book Exchange Platform" />
+      <img src="https://i.ibb.co.com/Yb5xRR6/screencapture-boibinimoy-netlify-app-2024-11-16-15-22-04.png" width="100%" alt="Book Exchange Platform" />
       <h3>📙 Book Exchange Platform</h3>
       <p>
         <strong>About:</strong> A platform for users to exchange and sell books, featuring wishlist and cart functionality, and an integrated payment gateway.
