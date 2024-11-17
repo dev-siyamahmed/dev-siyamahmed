@@ -42,11 +42,26 @@
 
 ---
 
+## 🚀 Technologies I Use
+- **Frontend:** React, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript, Redux, Firebase, JWT
+- **Backend:** Node.js, Express, MongoDB, Mongoose, MySQL, PostgreSQL,Prisma, 
+- **Other Tools:** Git, GitHub, Docker, AWS, Firebase, Stripe, framer-motion
+- **Languages:** JavaScript, TypeScript, Python
+
+
 ### 🎯 My Goals:
 - Write high-quality code and deliver complete projects.  
 - Enhance my skills across all aspects of web development.  
 - Become a proficient full-stack developer and inspire others in the tech community.  
 
+---
+
+## 🎉 Fun Facts & Hobbies
+
+- 🎮 **Chess**: I love playing chess, and its strategies and mental challenges always captivate me.
+- 🤖 **AI Technologies**: I enjoy learning about and researching new artificial intelligence technologies.
+- 📚 **Reading**: I'm passionate about reading books on philosophy and technology. I love exploring new ideas and perspectives.
+- ❤️ **Traveling**: I really enjoy traveling to new places and learning about different cultures and traditions.
 ---
 
 <br clear="both">
@@ -211,5 +226,19 @@
 </div>
 
 ---
+
+<br clear="both">
+
+
+## 📚 Blog or Articles
+- [My Blog on Medium](https://medium.com/@username)
+- [How I Built My First Full-Stack Application](https://dev.to/username/full-stack-project)
+
+
+
+
+
+
+
 
 <p align="center">⭐ Don't forget to give a star if you find my profile helpful! ⭐</p>
