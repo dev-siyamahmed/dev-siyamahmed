@@ -11,7 +11,6 @@
 
 
 <br clear="both">
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-siyamahmed.dev-siyamahmed&"  />
 </div>
@@ -51,7 +50,6 @@
 ---
 
 <br clear="both">
-
 <h3 align="center">✨ "Strive to improve yourself a little more every day." ✨</h3>
 
 ###
@@ -195,7 +193,6 @@
 </table>
 
 
-
 ---
 
 ### 🌐 Let's Connect
@@ -203,8 +200,10 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/siyam-ahmed-a5a6b3285/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
   <a href="https://github.com/dev-siyamahmed" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
-  <a href="siyamahmed3827@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25" /></a>
+<a href="mailto:siyamahmed3827@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
+</a>
+  <a href="https://x.com/SiyamAhmed4086" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25" /></a>
   <a href="https://siyam-ahmed-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" height="25" alt="Portfolio" />
   </a>
