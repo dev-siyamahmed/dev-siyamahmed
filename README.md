@@ -170,7 +170,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://i.ibb.co.com/Yb5xRR6/screencapture-boibinimoy-netlify-app-2024-11-16-15-22-04.png" height="100%"  width="100%" alt="Munshi Wholesale" />
+      <img src="https://i.ibb.co.com/7RPxkjC/munshi.png" height="100%"  width="100%" alt="Munshi Wholesale" />
       <h3>🛒 Munshi Wholesale</h3>
       <p>
         <strong>About:</strong> A responsive single bento-style e-commerce platform featuring advanced search and filtering capabilities for electronics products.
