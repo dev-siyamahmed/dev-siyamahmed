@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img  src="https://i.ibb.co.com/GFRwXTV/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Banner Image" " height="100%" />
+  <img  src="https://i.ibb.co.com/t4q6d05/Blue-And-Green-Professional-Technology-Linked-In-Banner.png" alt="Banner Image" height="100%" />
 </p>
 
 ---
