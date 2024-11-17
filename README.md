@@ -1,4 +1,7 @@
-<h2 align="center">👋 Welcome! I'm Siyam Ahmed</h2>
+<div display="flex">
+  <h2 align="left">👋 Welcome! I'm Siyam Ahmed</h2>
+  <h2 align="right">Resume</h2>
+</div>
 <h3 align="center">A Passionate MERN Stack Developer from Bangladesh</h3>
 
 ---
