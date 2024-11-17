@@ -25,6 +25,8 @@
 
 -[My Resume](https://drive.google.com/file/d/12oeOynVFVEUTsXyvOJ2t6AnIpRqzW3ID/view?usp=sharing)
 
+--
+
 ### 💻 About Me
 
 - 🔭 I’m currently working on **Full-Stack Web Development**  
@@ -33,7 +35,7 @@
 - 📫 How to reach me: **siyamahmed3827@gmail.com**  
 - ⚡ Fun fact: **I love to explore new technologies and contribute to open-source projects!**
 
--
+--
 <br clear="both">
 
 ### 🚀 How I Can Help:
@@ -42,14 +44,15 @@
 - Develop backend services  
 - Manage and optimize databases  
 
--
+--
 
 ## 🚀 Technologies I Use
 - **Frontend:** React, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript, Redux, Firebase, JWT
 - **Backend:** Node.js, Express, MongoDB, Mongoose, MySQL, PostgreSQL,Prisma, 
 - **Other Tools:** Git, GitHub, Docker, AWS, Firebase, Stripe, framer-motion
 - **Languages:** JavaScript, TypeScript, Python
-
+  
+--
 
 ## 🎓 Education
 
@@ -61,7 +64,7 @@
   - Database management systems
   - Networking and cloud technologies
 
--
+--
 
 
 ### 🎯 My Goals:
@@ -69,7 +72,7 @@
 - Enhance my skills across all aspects of web development.  
 - Become a proficient full-stack developer and inspire others in the tech community.  
 
--
+--
 
 ## 🎉 Fun Facts & Hobbies
 
