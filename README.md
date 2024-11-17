@@ -51,6 +51,20 @@
 - **Languages:** JavaScript, TypeScript, Python
 
 
+
+## 🎓 Education
+
+- **Diploma in Engineering (Computer Science & Engineering)**  
+  **Bhola Govt Polytechnic Institute**  
+  _2021 - 2025_  
+  Pursuing a diploma in CSE, focusing on:
+  - Core programming languages (C, Java, Python)
+  - Database management systems
+  - Networking and cloud technologies
+
+---
+
+
 ### 🎯 My Goals:
 - Write high-quality code and deliver complete projects.  
 - Enhance my skills across all aspects of web development.  
