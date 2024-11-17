@@ -1,6 +1,11 @@
 
-  <h2 align="left">👋 Welcome! I'm Siyam Ahmed</h2>
-  <h2 align="right">Resume</h2>
+  <table style="width: 100%; border: none;">
+  <tr>
+    <td align="left"><h2>👋 Welcome! I'm Siyam Ahmed</h2></td>
+    <td align="right"><h2>Resume</h2></td>
+  </tr>
+</table>
+
 
 <h3 align="center">A Passionate MERN Stack Developer from Bangladesh</h3>
 
