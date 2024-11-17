@@ -20,10 +20,10 @@
 <p align="center">
   <img  src="https://i.ibb.co.com/t4q6d05/Blue-And-Green-Professional-Technology-Linked-In-Banner.png" alt="Banner Image" height="100%" />
 </p>
-
 ---
-
 <br clear="both">
+
+-[My Resume](https://drive.google.com/file/d/12oeOynVFVEUTsXyvOJ2t6AnIpRqzW3ID/view?usp=sharing)
 
 ### 💻 About Me
 
