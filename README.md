@@ -1,8 +1,11 @@
-<h2 align="center">Hi 👋! I'm Siyam Ahmed, a MERN Stack Developer from Bangladesh</h2>
+<h2 align="center">👋 Welcome! I'm Siyam Ahmed, a MERN Stack Developer from Bangladesh</h2>
+
+<p align="center">💻 Coding is my passion, and solving problems is my ultimate goal. I am enthusiastic about learning something new every day and building better solutions.</p>
+
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-siyamahmed.dev-siyamahmed&"  />
 </div>
 
@@ -11,6 +14,38 @@
 </p>
 
 ---
+
+<br clear="both">
+
+### 💻 About Me
+
+- 🔭 I’m currently working on **Full-Stack Web Development**  
+- 🌱 I’m currently learning **DevOps & Advanced Backend Technologies**  
+- 💬 Ask me about **React, Node.js, Express.js, MongoDB, and TailwindCSS Or Etc**  
+- 📫 How to reach me: **siyamahmed3827@gmail.com**  
+- ⚡ Fun fact: **I love to explore new technologies and contribute to open-source projects!**
+
+---
+<br clear="both">
+
+### 🚀 How I Can Help:
+- Build interactive web applications  
+- Create responsive UI/UX designs  
+- Develop backend services  
+- Manage and optimize databases  
+
+---
+
+### 🎯 My Goals:
+- Write high-quality code and deliver complete projects.  
+- Enhance my skills across all aspects of web development.  
+- Become a proficient full-stack developer and inspire others in the tech community.  
+
+---
+
+<br clear="both">
+
+<h3 align="center">✨ "Strive to improve yourself a little more every day." ✨</h3>
 
 ###
 
@@ -94,16 +129,6 @@
   <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo" />
 </div>
 
-
----
-
-### 💻 About Me
-
-- 🔭 I’m currently working on **Full-Stack Web Development**  
-- 🌱 I’m currently learning **DevOps & Advanced Backend Technologies**  
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB, and TailwindCSS Or Etc**  
-- 📫 How to reach me: **siyamahmed3827@gmail.com**  
-- ⚡ Fun fact: **I love to explore new technologies and contribute to open-source projects!**
 
 ---
 
