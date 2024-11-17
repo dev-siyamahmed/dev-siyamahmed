@@ -1,4 +1,11 @@
-<h2 align="center">👋 Welcome! I'm Siyam Ahmed, a MERN Stack Developer from Bangladesh</h2>
+<h2 align="center">👋 Welcome! I'm Siyam Ahmed</h2>
+<h3 align="center">A Passionate MERN Stack Developer from Bangladesh</h3>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4E9AF5&center=true&vCenter=true&width=435&lines=💻+Coding+is+My+Passion;🌟+Problem-Solving+is+My+Goal;🚀+Always+Learning+and+Growing" alt="Typing SVG" />
+</p>
 
 <p align="center">💻 Coding is my passion, and solving problems is my ultimate goal. I am enthusiastic about learning something new every day and building better solutions.</p>
 
@@ -198,6 +205,18 @@
   <a href="https://github.com/your-username" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
   <a href="mailto:your-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
   <a href="https://twitter.com/your-twitter-handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25" /></a>
+
+  <p align="center">
+  <a href="mailto:siyam.ahmed@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/siyamahmed/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://siyamahmed.dev">
+    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 </div>
 
 ---
