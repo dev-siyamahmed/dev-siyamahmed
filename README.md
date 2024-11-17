@@ -164,7 +164,7 @@
         <li>📌 Category-wise book display and user-specific controls.</li>
       </ul>
       <p><strong>Technologies:</strong> Next.js, Tailwind CSS, React.js, Firebase, MongoDB, Mongoose, JWT</p>
-      <a href="https://github.com/your-username/book-exchange-platform" target="_blank">GitHub Repo</a> | 
+      <a href="https://github.com/dev-siyamahmed/Book-Exchange-Front-End-" target="_blank">GitHub Repo</a> | 
       <a href="https://boibinimoy.netlify.app" target="_blank">Live Demo</a>
     </td>
   </tr>
@@ -181,8 +181,8 @@
         <li>📌 Admin control to verify users and manage products effectively.</li>
       </ul>
       <p><strong>Technologies:</strong> React.js, Tailwind CSS, Firebase, Express.js, Node.js, MongoDB, JWT, Stripe</p>
-      <a href="https://github.com/your-username/munshi-wholesale" target="_blank">GitHub Repo</a> | 
-      <a href="https://munshiwholesale.netlify.app" target="_blank">Live Demo</a>
+      <a href="https://github.com/dev-siyamahmed/Munshi-Wholesale-Front-End-" target="_blank">GitHub Repo</a> | 
+      <a href="https://munshiwholesale.com" target="_blank">Live Demo</a>
     </td>
   </tr>
 </table>
